@@ -1,0 +1,15 @@
+{
+  "name": "smart-liquidity-router",
+  "version": "1.0.0",
+  "main": "src/router.ts",
+  "scripts": {
+    "dev": "tsx src/router.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.5.4",
+    "tsx": "^4.19.0",
+    "@types/node": "^22.5.4"
+  }
+}
